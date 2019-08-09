@@ -1,0 +1,46 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2f3542;
+}
+
+img {
+    width: 290px;
+    height: 190px;
+    object-fit: cover;
+}
+
+.first {background-color: #a4b0be;}
+
+.first h1, .first .primary {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.second {
+    background-color: #57606f;
+    color: #ffffff;
+}
+
+.third {
+    background-color: #747d8c;
+    color: #eccc68;
+}
+
+.third table {
+    font-family: "Cabin", sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+.fourth {
+    background-color: #2f3542;
+    color: #ff7f50;
+}
+
+
+
+
+
